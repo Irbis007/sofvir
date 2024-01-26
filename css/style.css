@@ -49,6 +49,11 @@ body{
 	min-height: 100svh;
 }
 
+
+* > img{
+	width: 100%;
+}
+
 .contact-link{
 	margin-right: 20px;
 	color: #212529;
