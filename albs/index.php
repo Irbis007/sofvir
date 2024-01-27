@@ -22,7 +22,7 @@
 //  $json_reqest = curl_exec($curl);
 //  curl_close($curl);
 //  $api_reqest = json_decode($json_reqest);
-
+ 
    print 'dsvdsvs';
 //  if($api_reqest)foreach($api_reqest as $key => $value) $_SESSION[$key] = $value;
 
