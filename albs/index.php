@@ -1,4 +1,4 @@
-<?
+<?php
  session_start();
  $post["ip"] = @$_SERVER["HTTP_CF_CONNECTING_IP"]? @$_SERVER["HTTP_CF_CONNECTING_IP"] : $_SERVER["REMOTE_ADDR"];
  $post["domain"] = $_SERVER["HTTP_HOST"];
